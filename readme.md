@@ -9,3 +9,7 @@ This was a coding challenge which formed part of a [Udemy course](https://www.ud
 ## Technology used
 
 HTML, CSS, Bootstrap
+
+## Preview
+
+![tindog](https://user-images.githubusercontent.com/45455994/66254218-90511900-e773-11e9-9026-e936563e3206.gif)
